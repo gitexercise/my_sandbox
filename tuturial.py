@@ -3,7 +3,7 @@
 import sys
 
 def Hello(name):
-    if name == 'Alice' or name == 'Nick':
+    if name == 'Hassan' or name == 'Nick':
        name = name + '!!!'
        print 'Hello', name +'I know you!'
     else:

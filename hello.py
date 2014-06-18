@@ -6,7 +6,7 @@ import sys
 # define a main() function that prints a littile greeting
 
 def main():
-    print "Hello"
+    print "Hello python"
     print sys.argv
 
 
